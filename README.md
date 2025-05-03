@@ -10,7 +10,7 @@ I am an undergraduate with a Bachelors in Computer Science who aspires to be a d
 ## SQL Projects
 
 Here you can find my work on SQL projects and assignments:
-1. [Datacamp - Associate Data Analyst Practical Exam](https://www.datacamp.com/portfolio/sathyasatoto): This project aims to clean, filter, and visualize data for a grocery store as a timed practical exam for my Associate Data Analyst certification at Datacamp. Here I was able to apply data cleaning techniques such as null value handling and data standardization.
+1. [Datacamp - Associate Data Analyst Practical Exam](https://github.com/AkuwuTumapel/DataCamp-ADA-Practical-Exam.git): This project aims to clean, filter, and visualize data for a grocery store as a timed practical exam for my Associate Data Analyst certification at Datacamp. Here I was able to apply data cleaning techniques such as null value handling and data standardization.
 
 ## Navigation
 
