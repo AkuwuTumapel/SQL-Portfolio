@@ -12,6 +12,7 @@ I am an undergraduate with a Bachelors in Computer Science who aspires to be a d
 Here you can find my work on SQL projects and assignments:
 1. [Datacamp - Associate Data Analyst Practical Exam](https://github.com/AkuwuTumapel/DataCamp-ADA-Practical-Exam.git): This project aims to clean, filter, and visualize data for a grocery store as a timed practical exam for my Associate Data Analyst certification at Datacamp. Here I was able to apply data cleaning techniques such as null value handling and data standardization.
 2. [Datacamp - Analyzing & Formatting PostgreSQL Sales](https://github.com/AkuwuTumapel/DataCamp-Formatting-PostgreSQL-Sales-Data.git): A PostgreSQL project with the goal of analyzing the most popular products in each category of an international store. I applied data analysis skills such as grouping, ranking, and data imputation to gain insight from sales data.
+3. [Datacamp - Analyzing Unicorn Companies](https://github.com/AkuwuTumapel/DataCamp-Analyzing-Unicorn-Companies.git): This SQL project aims to gain insight regarding the top 3 industries based on unicorn company valuation for year 2019 - 2021 from a given dataset. I demonstrated my proficiency in table joining, filtering, and grouping with SQL.
 
 ## Navigation
 
